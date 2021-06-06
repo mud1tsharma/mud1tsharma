@@ -1,4 +1,4 @@
-*Copyright Mudit Sharma*
+*Copyright Mudit Sharma 2021*
 
 [This repository](https://github.com/mud1tsharma/mud1tsharma) includes a record of the academic and personal projects that I've completed. For your convenience, this is arranged into folders, and sub-folders. Each folder covers a different area of expertise. 
 
