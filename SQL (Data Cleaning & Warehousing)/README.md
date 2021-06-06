@@ -1,6 +1,6 @@
 This folder contains the following files:
 
-- ### 1 Data Cleaning.sql
+- ### `1 Data Cleaning.sql`
   
   - SEARCHING FOR ERRORS
     - Search for duplicate primary keys in all tables
@@ -16,13 +16,13 @@ This folder contains the following files:
     - Remove or replace illegal or invalid classifications (Eg. earthmoving equipment was misclassified as sports equipment)
     - Recalculate calculated fields to ensure validity (Some business rules were incorrectly applied)
 
-- ### 2 Implement a Data Warehouse.sql
+- ### `2 Implement a Data Warehouse.sql`
 	- Identify dimensions, attributes, and fact measures
 	- Create the relevant dimension tables
 	- Create temporary fact tables to add calculated fields (Eg. Seasons, Type of Sale; low, medium, or high)
 	- Create a final fact table
 
-- ### 3 OLAP Queries.sql
+- ### `3 OLAP Queries.sql`
 	- Top n, and Top n% involving:
 		- 2 attributes from 2 different dimensions
 		- 1 fact measurement
