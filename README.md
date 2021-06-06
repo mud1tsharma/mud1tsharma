@@ -1,4 +1,4 @@
-This repository includes a record of the academic and personal projects that I've completed. For your convenience, this is arranged into folders, and sub-folders. Each folder covers a different area of expertise. 
+[This repository](https://github.com/mud1tsharma/mud1tsharma) includes a record of the academic and personal projects that I've completed. For your convenience, this is arranged into folders, and sub-folders. Each folder covers a different area of expertise. 
 
 *Within each folder and sub-folder, additional README files shed further light on the nature of each file or project.*
 ___
