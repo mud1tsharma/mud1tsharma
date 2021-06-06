@@ -1,18 +1,25 @@
-### Hi there 👋
+### MUDIT SHARMA'S REPOSITORY
+This repository is intended to showcase the academic and personal projects that I have undertaken.
+___
 
-Hi mny
+*Where possible, assignment guidelins are also incuded.*
 
-<!--
-**mud1tsharma/mud1tsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pandas
+  - ...
 
-Here are some ideas to get you started:
+- PySpark
+  - Analysing Road Crash Data
+  - Detecting Linux System Hacking Activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python3
+  - Tic-Tac-Toe
+
+- SQL
+  - Data Cleaning & Data Warehousing
+
+- Tableau
+  - Coral Bleaching
+  - Embarkation & Disembarkation Trends at Singapore's Changi Airport
+
+
+
