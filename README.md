@@ -1,8 +1,5 @@
-### MUDIT SHARMA'S REPOSITORY
-This repository is intended to showcase the academic and personal projects that I have undertaken.
+For your convenience, a brief description of each folder and its contents:
 ___
-
-*Where possible, assignment guidelins are also incuded.*
 
 - Pandas
   - ...
