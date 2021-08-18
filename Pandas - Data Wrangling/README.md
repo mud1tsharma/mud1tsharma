@@ -1,4 +1,4 @@
-The following is a brief overview of the Data Wrangling projects contained in this foler:
+The following is a brief overview of the Data Wrangling projects contained in this folder:
 
 # 1. Federal Statistical Office, Germany
 1. Obtain a list of ~2,000 datasets using the Requests module
