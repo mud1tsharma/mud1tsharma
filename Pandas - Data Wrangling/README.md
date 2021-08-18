@@ -1,8 +1,4 @@
-These projects involve using provided APIs to obtain JSON or CSV data and then using Pandas to transform them into wide, timeseries data. In order to ensure data integrity, this also included things like:
-- Detecting row and column names by parsing metadata or webpages
-- Translating row and column names by parsing metadata or webpages
-- Identifying time variables
-- Splicing datasets to remove non-data rows
+The following is a brief overview of the Data Wrangling projects contained in this foler:
 
 # 1. Federal Statistical Office, Germany
 1. Obtain a list of ~2,000 datasets using the Requests module
