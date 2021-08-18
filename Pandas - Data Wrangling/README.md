@@ -6,7 +6,7 @@ These projects involve using provided APIs to obtain JSON or CSV data and then u
 - Identifying time variables
 - Splicing datasets to remove non-data rows
 
-### 1.Federal Statistical Office, Germany
+### 1. Federal Statistical Office, Germany
 1. Obtain a list of ~2,000 datasets using the Requests module
 2. For each dataset:
   - Determine if it is a valid timeseries
